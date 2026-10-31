@@ -113,7 +113,7 @@ TMAX = 0.8  # epoch end relative to critical event
 BASELINE = (-0.2,0) # baseline interval
 
     # critical conditions for averaging and epoching
-CONDITIONS = ["stimulus/face", "stimulus/scrambled_face", "stimulus/car", "stimulus/scrambled_car"]
+CONDITIONS = ["stimulus/face", "stimulus/car"]
 
 REJECT = {
     "eeg": 150e-6,
