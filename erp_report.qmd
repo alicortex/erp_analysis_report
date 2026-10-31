@@ -57,9 +57,12 @@ The primary functional significance of the N170 component is its selectivity for
 
 - Perceptual expertise hypothesis: This hypothesis proposes that the N170 component is not specific to faces. Instead, it serves as a general index for automatic, subordinate level categorization of visually familiar objects (Tanaka & Curran, 2001). Advocates of this hypothesis content that while the N170 component seems exclusive to face processing due to our innate skill in recognizing faces, this same neural response is actually triggered whenever specialists classify objects in their area of expertise (Tanaka and Curran, 2001' Rossion et al., 2004). 
 
+For decades, the N170 response was widely viewed as a domain-specific biomarker for specialized face-processing neural systems in the human brain. However, one major controversy reported by Thierry et al. (2007) argued that the apparent face-selectivity of the N170 component was an experimental artifact caused by differences in low-level visual properties of interstimulus perceptual variance (ISPV) between face and non-face image sets. It was further suggested that the N170 response only reflected general stimulus similarity rather than facial processing, however, this was dismissed by Russion and his colleagues (2008), who identified that faces still elicit a larger N170 than non face-objects even when visual similarity is matched or controlled.
+
+
 ## Methods
 
-Complete the following subsections using the information from @kappenman2021. Don't forget to mention that the data are from the ERP CORE resource under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). 
+
 
 ### Participants
 
