@@ -43,7 +43,9 @@ The N170 is a face-sensitive ERP component that peaks approximately 170ms after 
 
 ### Literature Review
 
-The N170 component was first explored and observed by Bötzel and his colleagues (1995), who observed a greater negative 
+The N170 component was first explored and observed by Bötzel and his colleagues (1995), who observed a greater negative electrical response to face stimuli compared with non-face stimuli, occuring approximately 160–175 ms after stimulus onset at lateral temporal electrode sites (Bötzel et al., 1995). This finding was further investigated by Bentin et al. (1996) who identified a negatve ERP deflection peaking at approximately 170ms at electrode sites T5 and T6 (now commonly referred to as PO7 and PO8), subsequently termed the N170. This ERP component was then associated with the early perceptual processing and structural encoding of faces, reflecting the brain's sensitivity to facial changes and features during visual perception (Eimer, 2011; Kuefner et al., 2010). The N170 component now serves as a primary neural marker for human face perception, allowing researchers to examine the neural processes underlying our early visul face recognition (Eimer, 2011). 
+
+
 
 ## Methods
 
