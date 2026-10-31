@@ -43,7 +43,7 @@ The N170 is a face-sensitive ERP component that peaks approximately 170ms after 
 
 ### Literature Review
 
-The N170 component was first...
+The N170 component was first explored and observed by Bötzel and his colleagues (1995), who observed a greater negative 
 
 ## Methods
 
