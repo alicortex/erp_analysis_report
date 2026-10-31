@@ -203,7 +203,7 @@ for cond in CONDITIONS:
 
 ```{python}
 selected_electrode = "PO8"
-plot_title = "Grand average for N170"
+plot_title = "Grand average ERP Waveform at PO8 Across the Four Stimulus Conditions"
 analysis_window_start = 0.110
 analysis_window_end = 0.150
 
