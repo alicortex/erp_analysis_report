@@ -53,7 +53,9 @@ The primary condition required to elicit a maximal N170 response is the presenta
 
 The primary functional significance of the N170 component is its selectivity for faces, producing a significantly larger negative amplitude when an individual is exposed to human faces compared to non-facial stimuli (Eimer, 2011). The exact cognitive mechanism represented by the N170 component however is largely at debate, centering on whether this component exclusively evolved for processing faces, or if it reflects a generalized mechanism for high-level visual expertise. There are two primary opposing theories:
 
-- Structural encoding hypothesis: 
+- Structural encoding hypothesis: This hypothesis argues that the N170 response reflects early structural encoding of a face, a stage where our brain detects facial configurations before identifying a specific individual (Bruce & Young, 1986; Bentin et al., 1996). Under this hypothesis, it is argued that the increased latency and amplitude seen during face inversion occurs because the brain struggles to process the face holistically, forcing it to use additional neural resources to decode the disrupted spatial layout (Rossion et al., 2000; Bruce and Young, 1986). 
+
+- Perceptual expertise hypothesis: 
 
 ## Methods
 
