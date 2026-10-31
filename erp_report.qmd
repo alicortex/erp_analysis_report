@@ -62,10 +62,9 @@ For decades, the N170 response was widely viewed as a domain-specific biomarker 
 
 ## Methods
 
-
-
 ### Participants
 
+Participants included
 Provide information on the number of participants and their demographics (sex, age, handedness) as well as the inclusion criteria for the study.
 
 ```{python}
