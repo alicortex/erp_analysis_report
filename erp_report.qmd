@@ -41,7 +41,9 @@ The
 Provide an introduction to the ERP component of your choice here. This should include a brief literature review -- see report instructions for details.
 Use appropriate subheadings as required: adapt the ones below, create new ones or delete as needed.
 
-### Intro subheading 1
+### Characteristics of the N170 component
+
+The N170 component is observed 
 
 ### Intro subheading 2
 
@@ -104,7 +106,7 @@ REJECT = {
 
 ```
 
-## Data analysis
+## Data analysis:
 
 ### Preprocessing
 
@@ -179,7 +181,7 @@ for cond in CONDITIONS:
     grand_avs[cond] = grand
 ```
 
-## Results
+## Results-
 
 ### Grand average: expected effect
 
