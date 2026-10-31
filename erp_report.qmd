@@ -59,13 +59,14 @@ The primary functional significance of the N170 component is its selectivity for
 
 For decades, the N170 response was widely viewed as a domain-specific biomarker for specialized face-processing neural systems in the human brain. However, one major controversy reported by Thierry et al. (2007) argued that the apparent face-selectivity of the N170 component was an experimental artifact caused by differences in low-level visual properties of interstimulus perceptual variance (ISPV) between face and non-face image sets. It was further suggested that the N170 response only reflected general stimulus similarity rather than facial processing, however, this was dismissed by Russion and his colleagues (2008), who identified that faces still elicit a larger N170 than non face-objects even when visual similarity is matched or controlled.
 
-
 ## Methods
+
+The EEG data analyzed in this report were obtained from the ERP CORE (Compendium of Open Resources and Experiments), an openly accessible resource developed by Kappenman et al. (2021). The present report utilized the N170 dataset to investigate the Face Perception Paradigm.The ERP CORE resources are distributed under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0,), which permits the use, adaptation, and redistribution of the materials provided that appropriate attribution is given and any shared adaptations are distributed under the same license (Kappenmann et al., 2021).
 
 ### Participants
 
-Participants included
-Provide information on the number of participants and their demographics (sex, age, handedness) as well as the inclusion criteria for the study.
+The ERP CORE 
+Provide information on the number of participants and their demographics (sex, age, handedness) as well as the inclusion criteria for the study. 
 
 ```{python}
 EXCLUDE = ["001", "005", "016"]
