@@ -75,12 +75,13 @@ EXCLUDE = ["001", "005", "016"]
 
 ### Procedure
 
-Participants completed
-Describe the task that participants completed. This should be tailored to the task / component that you chose to analyse.
+Participants completed a facial perception paradigm that was modified from Rossion and Caharel (2011) for a standardized protocol, however the same stimuli set was utilized. Four stimulus categories were presented: intact faces, intact cars, scrambled faces, and scrambled cars. The stimuli consisted of cropped images presented centrally against a grey background on a VIEWPixx monitor (VPixx Technologies, 2011). Stimulus presentation and experiment control were regulated using Presentation v22 software (Neurobehavioral Systems, Inc., 2022). 
+
+Each participant completed 320 trials, comprising 80 trials for each stimulus category. Each category contained 40 individual exemplars, with each exemplar presented twice throughout the task. Stimuli were presented in a randomly shuffled sequence, with the contstraint that each exemplar appeared only once during the first half and second half of the task. On each trial, the stimuli was presented centrally for 300ms, with a jittered interstimulus interval of 1100-1300ms, featuring a white central fixation point. Participants were instructed to categorize each stimulus as either an 'object' (an intact face or car) or a 'texture' (scrambled car or face) via a dominant-hand button press.
 
 ### EEG recording
 
-Describe the EEG recording parameters: amplifier and type of cap used, electrode positions, CMS / DRL electrode positions, EOG electrode positions, and filter parameters.
+Data was sampled
 
 ### Analysis parameters
 
