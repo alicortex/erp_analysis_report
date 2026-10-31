@@ -87,7 +87,7 @@ EEG signals were low-pass filtered using a fifth-order sinc filter with a half p
 
 ### Analysis parameters
 
-Digitized continuous EEG... 
+The continuous EEG data were filtered using a 0.1-30 Hz band-pass filter, retatining the frequency waveforms relevant to the ERP response. The continuous EEG was downsampled to 256 Hz from the recorded 1024 Hz with an anti-aliasing filter set at 115 Hz. Event codes were also shifted back in time to account for the intrinsic stimulus display of the LCD monitor. The N170 dataset was re-referenced to the average of all 30 scalp electrodes instead of electrode sites P9 and P10. The epoch window was extracted from -200ms to 800ms post relative to stimulus onset, with a baseline window of -200 ms to 0 ms. Epochs containing excessive electrical activity were rejected using peak-to-peak amplitude thresholds of 150 µV for EEG channels and 250 µV for EOG channels. The N170 response was examined at electrode PO8, positioned over the right occipitotemporal scalp region. This was identified by Kappenman et al. (2021) to be the most optimal site of measurement, along with a measurement window of 110 to 150 ms.
 
 #### Preprocessing parameters
 
