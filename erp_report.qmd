@@ -81,11 +81,13 @@ Each participant completed 320 trials, comprising 80 trials for each stimulus ca
 
 ### EEG recording
 
-Data was sampled
+EEG activity was recorded using a Biosemi ActiveTwo recording system (Biosemi B.V., Amsterdam, Netherlands), incorporating active Ag/AgCl electrodes mounted in an elastic electrode cap. Thirty scalp electrodes were positioned according to the International 10-20 system. The common mode sense (CMS) electrode was positioned at PO1, while the driven right leg (DRL) electrode was positioned at PO2. Additional electrodes were utilized to record electrooculographic (EOG) activity associated with blink artifacts and eye movements. Horizontal EOG (HEOG) activity was recorded bipolarly from two electrodes placed laterally to the external canthus of each eye. Vertical EOG (VEOG) activity was recorded from an electrode placed directly beneath the right eye. 
+
+EEG signals were low-pass filtered using a fifth-order sinc filter with a half power cut-off frequency of 204.8 Hz. Signals were digitzed at a sampling rate of 1024 Hz with 24-bit resolution. Recordings were acquired in single-ended mode where voltage was measured between the active and ground electrodes without an online reference.
 
 ### Analysis parameters
 
-Describe the parameters in this section and also modify the code accordingly
+Digitized continuous EEG... 
 
 #### Preprocessing parameters
 
