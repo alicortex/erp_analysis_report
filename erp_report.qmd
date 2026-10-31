@@ -70,8 +70,6 @@ Provide information on the number of participants and their demographics (sex, a
 
 ```{python}
 EXCLUDE = ["001", "005", "016"]
-
-
 ```
 
 ### Procedure
@@ -83,7 +81,6 @@ Describe the EEG recording parameters: amplifier and type of cap used, electrode
 
 ### Analysis parameters
 
-Choose these parameters appropriate for the component that you are analysing. Use those recommended by @kappenman2021; see their Table 1. This holds for all parameters except for the filter parameters; for these, you can stick to the example parameters provided below.
 Describe the parameters in this section and also modify the code accordingly
 
 #### Preprocessing parameters
