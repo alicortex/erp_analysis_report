@@ -1,7 +1,7 @@
 ---
 title: "Investigating ERP responses in relation to the N170 component"
 author: "Ali Trabolsi"
-date: today
+date: 29/10/26
 format: 
     html:
         embed-resources: true
