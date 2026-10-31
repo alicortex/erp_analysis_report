@@ -55,7 +55,7 @@ The primary functional significance of the N170 component is its selectivity for
 
 - Structural encoding hypothesis: This hypothesis argues that the N170 response reflects early structural encoding of a face, a stage where our brain detects facial configurations before identifying a specific individual (Bruce & Young, 1986; Bentin et al., 1996). Under this hypothesis, it is argued that the increased latency and amplitude seen during face inversion occurs because the brain struggles to process the face holistically, forcing it to use additional neural resources to decode the disrupted spatial layout (Rossion et al., 2000; Bruce and Young, 1986). 
 
-- Perceptual expertise hypothesis: 
+- Perceptual expertise hypothesis: This hypothesis proposes that the N170 component is not specific to faces. Instead, it serves as a general index for automatic, subordinate level categorization of visually familiar objects (Tanaka & Curran, 2001). Advocates of this hypothesis content that while the N170 component seems exclusive to face processing due to our innate skill in recognizing faces, this same neural response is actually triggered whenever specialists classify objects in their area of expertise (Tanaka and Curran, 2001' Rossion et al., 2004). 
 
 ## Methods
 
