@@ -61,18 +61,21 @@ For decades, the N170 response was widely viewed as a domain-specific biomarker 
 
 ## Methods
 
+## Data source and licensing
+
 The EEG data analyzed in this report were obtained from the ERP CORE (Compendium of Open Resources and Experiments), an openly accessible resource developed by Kappenman et al. (2021). The present report utilized the N170 dataset to investigate the Face Perception Paradigm.The ERP CORE resources are distributed under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0,), which permits the use, adaptation, and redistribution of the materials provided that appropriate attribution is given and any shared adaptations are distributed under the same license (Kappenmann et al., 2021).
 
 ### Participants
 
-The ERP CORE 
-Provide information on the number of participants and their demographics (sex, age, handedness) as well as the inclusion criteria for the study. 
+The initial participant sample consisted of 40 neurotypical young adults (25 female, 15 male; M = 21.5, SD = 2.87, Range 18-30; 38 right-handed), however 3 participants were excluded due to data artifacts and criteria violations. Of the remaining 23 females and 14 males, 35 were right-handed and 2 were left-handed. All participants possessed native English competence, normal color perception, and normal or corrected-normal vision. Participants reported no history of neurological injury or disease, and were compensated $10 every hour.
 
 ```{python}
 EXCLUDE = ["001", "005", "016"]
 ```
 
 ### Procedure
+
+Participants completed
 Describe the task that participants completed. This should be tailored to the task / component that you chose to analyse.
 
 ### EEG recording
