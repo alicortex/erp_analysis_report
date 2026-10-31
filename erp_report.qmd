@@ -37,15 +37,13 @@ PROCESSED_PATH = Path("data/processed")
 
 ## Introduction
 
-The 
-Provide an introduction to the ERP component of your choice here. This should include a brief literature review -- see report instructions for details.
-Use appropriate subheadings as required: adapt the ones below, create new ones or delete as needed.
-
 ### Characteristics of the N170 component
 
-The N170 component is observed 
+The N170 is a face-sensitive ERP component that peaks approximately 170ms after presentation of a face (Eimer, 2011; Gao et al., 2019). The N170 component produces a negative-going deflection in the ERP waveform that is maximal over the occipito-temporal/inferotemporal regions in the right hemisphere (Kappenman et al., 2021). This ERP component is frequently measured at lateral channels P7, P8, and PO8, exhibiting a right-hemisphere lateralization (Kappenman et al., 2021; Gao et al., 2019).
 
-### Intro subheading 2
+### Literature Review
+
+The N170 component was first...
 
 ## Methods
 
