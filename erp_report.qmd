@@ -12,7 +12,7 @@ format:
 execute:
     warning: false
     message: false
-bibliography: "erp_report.bib"
+bibliography: "Report References.bib"
 ---
 
 ## Setup
