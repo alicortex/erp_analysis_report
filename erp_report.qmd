@@ -207,7 +207,7 @@ plot_title = "Grand average ERP Waveforms at PO8 Between Face and Car stimuli "
 analysis_window_start = 0.110
 analysis_window_end = 0.150
 
-plot_evokeds(grand_avs, picks = selected_electrode, invert_y = True, title = plot_title, vlines = [analysis_window_start, analysis_window_end])
+plot_evokeds(grand_avs, picks = selected_electrode, invert_y = False, title = plot_title, vlines = [analysis_window_start, analysis_window_end])
 
 ```
 
