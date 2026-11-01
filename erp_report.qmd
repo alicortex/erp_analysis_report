@@ -213,7 +213,7 @@ plot_evokeds(grand_avs, picks = selected_electrode, invert_y = True, title = plo
 
 ## Discussion and reflection
 
-Provide a brief discussion of the effect that you observed. Were you able to replicate the ERP component as observed by @kappenman2021? If not, what was different in your grand average ERP? 
+The ERP
 
 What did you learn by applying the analysis process to a new dataset?
 
