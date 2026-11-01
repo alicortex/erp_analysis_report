@@ -213,9 +213,9 @@ plot_evokeds(grand_avs, picks = selected_electrode, invert_y = True, title = plo
 
 ## Discussion and reflection
 
-The ERP
+The ERP plot produced replicated the ERP component produced by Kappenman et al. (2021) to a high extent with a few minor deviations.
 
-What did you learn by applying the analysis process to a new dataset?
+
 
 ## References
 
