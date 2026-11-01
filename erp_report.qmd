@@ -213,7 +213,9 @@ plot_evokeds(grand_avs, picks = selected_electrode, invert_y = True, title = plo
 
 ## Discussion and reflection
 
-The ERP plot produced replicated the ERP component produced by Kappenman et al. (2021) to a high extent with slight deviations. There is a prominent negative-going deflection between 160 and 170 ms, indicating a successful N170 component. The face condition exhibits a an earlier onset and significantly more negative N170 deflection than the car stimuli. A P1 component is also visible with a strong positive-going deflection around 110 ms post-stimulus, reflecting initial low-level sensory processing. Beyond 200ms the ERP waveforms merge tightly until about 500 ms, where the face condition diverges again toward a more negative potential at 600-800 ms. This slight variance could be attributed to differences in artifact rejection thresholds, sample size dynamics, epoching settings, or signal-to-noise filters applied during the preprocessing of the EEG data (Kappenman et al., 2021; Zhang & Luck, 2024). 
+The ERP plot produced replicated the ERP component produced by Kappenman et al. (2021) to a high extent with minor deviations. Aside from the inversion with negativity plotted upwards, there is a prominent negative-going deflection between 160 and 170 ms, indicating a successful N170 component. The face condition exhibits an earlier onset and significantly more negative N170 deflection than the car stimuli, demonstrating the classic face-selectivity effect. While Kappenman et al. (2021) recommended a fixed measurement window of 110-150 ms, this specific interval is accompanied by a strong positive-going P1 component that peaks around 120 ms, reflecting initial low-level sensory processing. Beyond 200ms the ERP waveforms merge tightly until about 500 ms, where the face condition diverges again toward a more negative potential at 600-800 ms. This slight variance could be attributed to differences in artifact rejection thresholds, sample size dynamics, epoching settings, or signal-to-noise filters applied during the preprocessing of the EEG data (Kappenman et al., 2021; Zhang & Luck, 2024). 
+
+The 
 
 
 
