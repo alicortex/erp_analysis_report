@@ -217,7 +217,9 @@ The ERP plot produced replicated the ERP component produced by Kappenman et al. 
 
 Applying this analysis to a new dataset strengthened my understanding of how raw EEG data can bbe transformed into interpretable measures of brain activity. I learnt exhaustively that preprocessing, filtering, referencing, epoching, and artefact rejection are vital for improving EEG quality and ensuring that the ERP waveforms accurately reflect stimulus-related neural activity. Working with the ERP CORE dataset also developed my understanding of how stimulus conditions can be compared to investigate component-specific neural responses. Examining face and care stimuli provided invaluable insights into how the N170 component can be investigated through both parent and difference waveforms. Overall, my learning journey in working Python-based EEG analysis has improved my confidence in interpreting ERP results.
 
+## AI Declaration: 
 
+I declare that no artifical intelligence (AI) tools or generative software was used in the research, writing, or coding of this report.
 
 ## References
 
