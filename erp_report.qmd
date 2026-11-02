@@ -221,7 +221,3 @@ Applying this analysis to a new dataset strengthened my understanding of how raw
 
 I declare that no artifical intelligence (AI) tools or generative software was used in the research, writing, or coding of this report.
 
-## References
-
-
-
