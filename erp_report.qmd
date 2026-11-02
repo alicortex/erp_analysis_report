@@ -223,5 +223,5 @@ I declare that no artifical intelligence (AI) tools or generative software was u
 
 ## References
 
-*Note: this document is set up to automatically generate a reference list via a bib file. We will look at how to do this in the week 9 workshop.*
+
 
